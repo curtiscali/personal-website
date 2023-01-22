@@ -14,7 +14,7 @@
   type: time_table
   contents:
     - title: Solutions Developer
-      institution: Chainbridge Technologies
+      institution: <a href="https://www.chainbridgetech.com">Chainbridge Technologies</a>
       year: Jun 2017 - Present
       description:
         - title: >
@@ -29,17 +29,17 @@
             - Wrote Android & iOS apps to help the members DOD learn how to use and develop mobile apps for CBRNResponder’s external REST APIs
 
     - title: Software Engineer Intern
-      institution: Cisco Systems
+      institution: <a href="https://www.cisco.com">Cisco Systems<a/>
       year: May - Aug 2016
       description: I implemented a REST API for Google Maps to improve loading performance by 95%, panning performance by 15%, and zooming performance by 9%.
 
     - title: Software Engineering Intern
-      institution: Datto Inc
+      institution: <a href="https://www.datto.com">Datto Inc</a>
       year: Jun - Aug 2015
       description: Assisted with development of prototype product Datto Network Appliance (DNA). Implemented network failover prioritization, refined graphs with D3, enhanced test scripts.
 
     - title: Labs Software Intern
-      institution: EnerNOC
+      institution: <a href="https://www.linkedin.com/company/enernoc">EnerNOC</a>
       year: Jan - May 2015
       description: Performed development for various projects in EnerNOC Labs including software to aid the marketing department in selling Energy Intelligence Software and a REST API for the Automated Load Control platform.
 
