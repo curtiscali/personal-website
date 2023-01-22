@@ -2,6 +2,7 @@ github_users:
   - curtiscali
 
 github_repos:
+  - firstcontributions/first-contributions
   - alshedivat/al-folio
   - jekyll/jekyll
   - FortAwesome/Font-Awesome
