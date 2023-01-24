@@ -6,7 +6,7 @@ subtitle: Software Developer @ <a href="https://www.chainbridgetech.com">Chainbr
 
 profile:
   align: right
-  image: headshot-placeholder.png
+  image: linkedin-pfp.jpeg
   image_circular: false # crops the image to make it circular
   address: <p>Henderson, Nevada, USA</p>
 
