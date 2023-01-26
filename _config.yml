@@ -23,6 +23,13 @@ last_updated: true # set to true if you want to display last updated in the foot
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
+# Language Settings
+# -----------------------------------------------------------------------------
+
+languages: ["en", "zh"]
+default_locale_in_subfolder: false
+
+# -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
 
@@ -114,7 +121,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Curtis Cali # blog_name will be displayed in your blog page
-blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_nav_title: titles.blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: Various thoughts and updates about whatever I want to discuss
 permalink: /blog/:year/:title/
 
@@ -209,6 +216,8 @@ plugins:
   - jekyll-link-attributes
   - jekyll-twitter-plugin
   - jemoji
+  - jekyll-multiple-languages-plugin
+
 
 # Sitemap settings
 defaults:

@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: titles.about
 permalink: /
 subtitle: Software Developer @ <a href="https://www.chainbridgetech.com">Chainbridge Technologies</a>
 
