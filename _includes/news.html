@@ -12,7 +12,11 @@
               {% endif %}
               {% for item in news limit: news_limit %} 
                 <tr>
+                  {% if site.lang == "zh" %}
+                  <th scope="row">{{ item.date | date: "%Y年%m月%d日" }}</th>
+                  {%- else -%}
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
+                  {%- endif -%}
                   <td>
                     {% if item.inline -%} 
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
