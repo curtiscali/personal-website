@@ -1,7 +1,7 @@
 titles:
   about: About
   blog: Blog
-  github: Github
+  github: GitHub
   projects: Projects
   qualifications: Qualifications
   news: News
@@ -10,3 +10,7 @@ titles:
   blank: N/A
 profile:
   address: Henderson, Nevada, USA
+descriptions:
+  unk: Looks like there has been a mistake. Nothing exists here.
+  qualifications: A summary of my education and professional work experience
+  github: Some interesting repositories and a summary of my work on Github

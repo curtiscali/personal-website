@@ -1,12 +1,16 @@
 titles:
   about: 关于我
   blog: 博客
-  github: Github
+  github: GitHub
   projects: 项目
   qualifications: 资历
-  news: 新闻
+  news: 信息
   submenus: 杂项
   unk: 网页不明
   blank: N/A
 profile:
   address: 美利坚合众国内华达州亨德森
+descriptions:
+  unk: 我很抱歉。你想查看的网页不存在
+  qualifications: 我教育还有我职业经验的总结
+  github: 一些有趣的存储库还有我在GitHub的创作
