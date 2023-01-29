@@ -17,9 +17,9 @@
 - title: qualifications.work_experience.title
   type: time_table
   contents:
-    - title: Solutions Developer
+    - title: qualifications.work_experience.chainbridge.title
       institution: <a href="https://www.chainbridgetech.com">Chainbridge Technologies</a>
-      year: Jun 2017 - Present
+      year: qualifications.work_experience.chainbridge.year
       description:
         - title: >
             At Chainbridge Technologies, I developed logistics and data collection software for various federal agencies including the DOE and FEMA. In
@@ -32,28 +32,28 @@
             - Enhanced FEMA’s mobile data collection capabilities by ensuring 5 successful releases for the RadResponder Mobile App
             - Wrote Android & iOS apps to help the members DOD learn how to use and develop mobile apps for CBRNResponder’s external REST APIs
 
-    - title: Software Engineer Intern
+    - title: qualifications.work_experience.cisco.title
       institution: <a href="https://www.cisco.com">Cisco Systems<a/>
-      year: May - Aug 2016
+      year: qualifications.work_experience.cisco.year
       description: I implemented a REST API for Google Maps to improve loading performance by 95%, panning performance by 15%, and zooming performance by 9%.
 
-    - title: Software Engineering Intern
+    - title: qualifications.work_experience.datto.title
       institution: <a href="https://www.datto.com">Datto Inc</a>
-      year: Jun - Aug 2015
+      year: qualifications.work_experience.datto.year
       description: Assisted with development of prototype product Datto Network Appliance (DNA). Implemented network failover prioritization, refined graphs with D3, enhanced test scripts.
 
-    - title: Labs Software Intern
+    - title: qualifications.work_experience.enernoc.title
       institution: <a href="https://www.linkedin.com/company/enernoc">EnerNOC</a>
-      year: Jan - May 2015
+      year: qualifications.work_experience.enernoc.year
       description: Performed development for various projects in EnerNOC Labs including software to aid the marketing department in selling Energy Intelligence Software and a REST API for the Automated Load Control platform.
 
-- title: qualifications.education.title
-  type: time_table
-  contents:
-    - title: B.S. Software Engineering
-      institution: Rochester Institute of Technology
-      year: 2017
-      description:
+# - title: qualifications.education.title
+#   type: time_table
+#   contents:
+#     - title: B.S. Software Engineering
+#       institution: Rochester Institute of Technology
+#       year: qualifications.education.year
+#       description:
 
 - title: qualifications.technical_skills.title
   type: list

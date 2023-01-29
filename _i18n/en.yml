@@ -26,7 +26,20 @@ qualifications:
       full_name: Curtis Cali
   work_experience:
     title: Work Experience
+    chainbridge:
+      title: Solutions Developer
+      year: Jun 2017 - Present
+    cisco:
+      title: Software Engineer Intern
+      year: May - Aug 2016
+    datto:
+      title: Software Engineering Intern
+      year: Jun - Aug 2015
+    enernoc:
+      title: Labs Software Intern
+      year: Jan - May 2015
   education:
-    title: education
+    title: Education
+    year: "2017"
   technical_skills:
     title: Technical Skills

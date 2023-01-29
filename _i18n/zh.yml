@@ -21,12 +21,25 @@ qualifications:
       full_name: 姓名
       location: 我在的地方
       phone_number: 电话号码
-      email_address: 邮件地址
+      email_address: 电邮地址
     values:
       full_name: Curtis Cali
   work_experience:
     title: 职业经验
+    chainbridge:
+      title: 解答工程师
+      year: 2017年6月 - 现在
+    cisco:
+      title: 软件工程师实习生
+      year: 2016年5到8月
+    datto:
+      title: 软件工程实习生
+      year: 2015年6到8月
+    enernoc:
+      title: 实验室軟件實習生
+      year: 2015年1到5月
   education:
     title: 教育
+    year: 2017年
   technical_skills:
     title: 我的技能
