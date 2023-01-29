@@ -1,16 +1,20 @@
-- title: General Information
+- title: qualifications.general_info.title
   type: map
   contents:
-    - name: Full Name
-      value: Curtis Cali
-    - name: Location
-      value: Henderson, Nevada, United States
-    - name: Phone
-      value: <a href="tel:+10483156627">(408) 315-6627</a>
-    - name: Email
+    - name: qualifications.general_info.names.full_name
+      i18n: true
+      value: qualifications.general_info.values.full_name
+    - name: qualifications.general_info.names.location
+      i18n: true
+      value: profile.address
+    - name: qualifications.general_info.names.phone_number
+      i18n: false
+      value: <a href="tel:+14083156627">(408) 315-6627</a>
+    - name: qualifications.general_info.names.email_address
+      i18n: false
       value: <a href="mailto:curtiscali@pm.me">curtiscali@pm.me</a>
 
-- title: Work Experience
+- title: qualifications.work_experience.title
   type: time_table
   contents:
     - title: Solutions Developer
@@ -43,7 +47,7 @@
       year: Jan - May 2015
       description: Performed development for various projects in EnerNOC Labs including software to aid the marketing department in selling Energy Intelligence Software and a REST API for the Automated Load Control platform.
 
-- title: Education
+- title: qualifications.education.title
   type: time_table
   contents:
     - title: B.S. Software Engineering
@@ -51,7 +55,7 @@
       year: 2017
       description:
 
-- title: Technical Skills
+- title: qualifications.technical_skills.title
   type: list
   contents:
     - Problem solving

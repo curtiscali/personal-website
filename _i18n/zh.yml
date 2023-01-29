@@ -14,3 +14,19 @@ descriptions:
   unk: 我很抱歉。你想查看的网页不存在
   qualifications: 我教育还有我职业经验的总结
   github: 一些有趣的存储库还有我在GitHub的创作
+qualifications:
+  general_info:
+    title: 普遍信息
+    names:
+      full_name: 姓名
+      location: 我在的地方
+      phone_number: 电话号码
+      email_address: 邮件地址
+    values:
+      full_name: Curtis Cali
+  work_experience:
+    title: 职业经验
+  education:
+    title: 教育
+  technical_skills:
+    title: 我的技能

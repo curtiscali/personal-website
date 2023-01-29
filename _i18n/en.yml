@@ -14,3 +14,19 @@ descriptions:
   unk: Looks like there has been a mistake. Nothing exists here.
   qualifications: A summary of my education and professional work experience
   github: Some interesting repositories and a summary of my work on Github
+qualifications:
+  general_info:
+    title: General Information
+    names:
+      full_name: Full Name
+      location: Location
+      phone_number: Phone
+      email_address: Email
+    values:
+      full_name: Curtis Cali
+  work_experience:
+    title: Work Experience
+  education:
+    title: education
+  technical_skills:
+    title: Technical Skills
