@@ -4,4 +4,4 @@ I'm a proud alumnus of the Rochester Institute of Technology (RIT for short). Af
 
 When I'm not working hard to make sure our government has the resources to properly manage emergencies and logistics, I enjoy spending time with my dog, walking, streaming amazing shows, and exploring the beautiful Nevada desert.
 
-If you have any feedback, constructive feedback, or just want to drop me a line, please feel free to do so via any of the socials I link down below, although email or LinkedIn work best for me.
+If you have any feedback or just want to drop me a line, please feel free to do so via any of the socials I link down below, although email or LinkedIn work best for me.
