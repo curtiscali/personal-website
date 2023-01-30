@@ -1,3 +1,5 @@
 欢迎来到我的个人网站！我叫Curtis！请允许我给自己介绍一下！
 
-我是一个骄傲的罗切斯特理工学院(RIT)毕业生！我毕业与受到软件工程学士之后为Chainbridge Technologies工作起来了。为Chainbridge工作中我把允许美国政府更准确快反应与评价紧急情况的软件系统design与建设。我每天都为了拯救生命努力！
+我是一个骄傲的罗切斯特理工学院(RIT)毕业生！我毕业与受到软件工程学士之后为Chainbridge Technologies工作起来了。为Chainbridge工作中我把允许美国政府更准确更快反应与评价紧急情况的软件系统设计与建设。我每天都为了拯救生命努力！
+
+我不为了确保我们的政府有the resources to properly manage emergencies and logistics的能力努力的时候，我喜欢走路，和我的狗花时间，看好好看的电视剧还有探险美好的内华达荒漠。
