@@ -105,6 +105,8 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
   The best way to reach me is by email at <a href="mailto:curtiscali@pm.me">curtiscali@pm.me</a> or on <a href="https://www.linkedin.com/in/curtiscali/">LinkedIn<a/>
+contact_note_zh: >
+  我的电邮地址<a href="mailto:curtiscali@pm.me">curtiscali@pm.me</a>或者<a href="https://www.linkedin.com/in/curtiscali/">LinkedIn<a/>是和我联系的最好办法
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification

@@ -60,7 +60,11 @@ layout: default
               </div>
 
               <div class="contact-note">
-                {{ site.contact_note }}
+                {%- if site.lang == "en" -%}
+                  {{ site.contact_note }}
+                {%- elsif site.lang == "zh" -%}
+                  {{ site.contact_note_zh }}
+                {%- endif -%}
               </div>
               
             </div>
