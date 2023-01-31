@@ -1,0 +1,1 @@
+Support for Simplified Chinese has been added to the site!
