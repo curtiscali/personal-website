@@ -2,6 +2,7 @@ github_users:
   - curtiscali
 
 github_repos:
+  - curtiscali/dotfiles
   - firstcontributions/first-contributions
   - alshedivat/al-folio
   - jekyll/jekyll
