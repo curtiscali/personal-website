@@ -18,11 +18,12 @@
       year: Jun 2017 - Present
       description:
         - title: >
-            At Chainbridge Technologies, I developed logistics and data collection software for various federal agencies including the DOE and FEMA. In
-            performing my duties, I worked with both local and remote employees located all over the country, maintaining consistent communication with
-            all relevant team members. I also worked diligently in order to ensure business requirements were clarified and met. I designed & developed
-            new features and fixed bugs in various software systems as needed.
+            At Chainbridge Technologies, I developed logistics and data collection software for various federal agencies including the DOE, FEMA, and USAID. 
+            In performing my duties, I worked with both local and remote employees located all over the country, maintaining consistent communication with all 
+            relevant team members. I also worked diligently in order to ensure business requirements were clarified and met. 
+            I designed & developed new features and fixed bugs in various software systems as needed.
           contents:
+            - Successfully delivered a Mobile App for USAID’s Bureau of Humanitarian Assistance (BHA) from scratch to MVP in 3 months
             - Wrote 75% of the ARMS mobile app used by DOE and ensured consistent quality in releases with minimal delay.
             - Overhauled the UX of the ARMS Website cutting navigation time in half.
             - Enhanced FEMA’s mobile data collection capabilities by ensuring 5 successful releases for the RadResponder Mobile App
@@ -51,16 +52,18 @@
       year: 2017
       description:
 
-- title: Technical Skills
+- title: Skills
   type: list
   contents:
-    - Problem solving
-    - Attention to detail
+    - Remote Collaboration
     - Quick Learning
-    - Relational Databases (SQL)
+    - Mobile Development
+    - Relational Databases
     - C#/.NET Framework
     - Xamarin Forms
-    - Mobile Development
     - Javascript/HTML
     - Web Development
-    - Durandal/Knockout JS
+    - Durandal & Knockout JS
+    - React JS
+    - Aurelia
+    - .NET MAUI
