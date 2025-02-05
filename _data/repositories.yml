@@ -3,7 +3,7 @@ github_users:
 
 github_repos:
   - curtiscali/dotfiles
+  - curtiscali/oscar-trash-cli
+  - curtiscali/project-euler 
+  - Gustash/Hyprshot
   - firstcontributions/first-contributions
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - FortAwesome/Font-Awesome
