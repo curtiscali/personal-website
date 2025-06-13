@@ -1,1 +1,1 @@
-jekyll build && firebase login && firebase deploy
+bundle exec jekyll build && firebase login && firebase deploy
