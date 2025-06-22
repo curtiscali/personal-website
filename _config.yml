@@ -8,11 +8,11 @@ middle_name: A.
 last_name: Cali
 email: curtiscali@pm.me
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  My personal website to showcase my resume, projects, and blog
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://firebase.google.com/docs/hosting/" target="_blank">Firebase</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: jekyll, jekyll-theme, academic-website, portfolio-website, personal-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: C  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
