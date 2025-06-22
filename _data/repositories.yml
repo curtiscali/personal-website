@@ -2,7 +2,6 @@ github_users:
   - curtiscali
 
 github_repos:
-  - curtiscali/dotfiles
   - curtiscali/oscar-trash-cli
   - curtiscali/project-euler 
   - Gustash/Hyprshot
